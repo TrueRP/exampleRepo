@@ -7,12 +7,6 @@ assignees: ''
 
 ---
 
-name: Bug Report
-description: File a bug report.
-title: "[Bug]: "
-labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
-assignees:
   - octocat
 body:
   - type: markdown
@@ -71,3 +65,4 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+
