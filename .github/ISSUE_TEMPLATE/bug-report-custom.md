@@ -1,13 +1,8 @@
----
 name: Bug Report custom
 about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+title: 'Custom Bug report'
+labels: 'issues'
 
----
-
-  - octocat
 body:
   - type: markdown
     attributes:
